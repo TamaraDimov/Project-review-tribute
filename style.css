@@ -1,0 +1,39 @@
+* {
+  text-align: center;
+  background-color: #eee;
+}
+#img-div {
+  background-color: white;
+}
+#tribute-info {
+  background-color: white;
+}
+#image {
+  /* display: block; */
+  max-width: 100%;
+  height: auto;
+}
+.main-text {
+  display: block;
+  width: 40%;
+  margin-left: 30%;
+  text-align: left;
+}
+ul {
+  text-align: left;
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+img {
+  /* display: block; */
+}
+#img-div {
+  padding: 10px;
+  margin: 0;
+  /* text-align: center; */
+}
